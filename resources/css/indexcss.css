@@ -1,0 +1,36 @@
+    body {
+        background-color: dimgray;
+        color: mistyrose;
+        font-family: Helvetica, sans-serif;
+}
+
+    p {
+     text-align: justify
+}
+
+    .colon {
+          position: absolute;
+          bottom: 0;
+          left: 15;
+      font-family: monospace
+}
+
+   .link fdreerf {
+	   width: 143.631px; 
+	   text-align: center;
+}
+
+   .link scratch {
+     width: 142.679px; 
+     text-align: center;
+}
+
+   .link ocular {
+     width: 142.679px; 
+     text-align: center;
+}
+
+   .link shefwerld {
+     width: 143.631px; 
+     text-align: center;
+}
